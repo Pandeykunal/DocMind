@@ -1,4 +1,4 @@
-# DocMind 🧠
+# DocMind 
 
 A RAG-based web app that lets you chat with any PDF — extracts text, tables, and images, and answers questions in 50+ languages.
 
